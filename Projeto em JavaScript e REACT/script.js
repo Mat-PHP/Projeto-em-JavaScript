@@ -81,13 +81,14 @@ let digite = prompt("sim ou nao")
 alert(digite)
 
 // nedia de 2 notas 
+let=nota1=Number(prompt)("qual e sua segunda nota")
 
-let=nota1=prompt("qual e sua primeira nota")
-
-let=nota2=prompt("qual e sua segunda nota")
+let=nota2=  Number(prompt)("qual e sua segunda nota")
 
 let resultado = (nota1+nota2)/2
 
 alert ("a sua media e de ${resultado)")
+
+
 
 
